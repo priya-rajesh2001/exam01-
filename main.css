@@ -1,0 +1,20 @@
+.inbox2{
+    margin-top: 10px;
+}
+.inbox1{
+   
+    margin-top: 10px;
+}
+.sert{
+    text-align: center;
+   
+}
+@media(max-width:468px){
+    .we{
+        font-size: 25px;
+    }
+    .wes{
+        font-size: 20px;
+    }
+}
+
